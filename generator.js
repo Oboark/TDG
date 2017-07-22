@@ -21,7 +21,7 @@ var dogNames =
     "Oliviot",
     "Nine",
     "Soupie"
-]
+];
 
 
 //Basic functions
@@ -75,5 +75,6 @@ function DrawSentence()
 {   
     var sentenceHolder = document.getElementById("sentenceHolder").textContent = GenSen();
 }
+
 
 DrawSentence();
