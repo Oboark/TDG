@@ -54,8 +54,7 @@ function GenSen()
             r = "Ang " + word(insultingAdjectives) + " naman.";
         break;
         case 1:
-            var s = word(insultingNouns);
-            r = "These " + s + suffix(s) + " yeah?";
+            r = "These " + s + suffix(word(insultingNouns)) + " yeah?";
         break;
         case 2:
             r = "I know " + random(100) + " forms of martial arts.";

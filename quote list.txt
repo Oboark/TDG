@@ -1,0 +1,39 @@
+This is not parsed by the program in anyway, just put sentences or words that Tito Derek would say and I'll add them.
+(If there are a lot I'll start using automation. Machine Learning automation so no errors yay!)
+
+Examples:
+
+Ang [insultingAdjective] naman.
+These [insultingNoun] yeah?
+
+A randomized word is put where the [] are.
+
+
+
+List Starts Here:
+
+	Insulting Adjectives:
+		nuts
+		stupid
+		dumb
+		
+	Insulting Nouns:
+		genius
+		idiot
+		moron
+		
+	Dog Names:
+		Shobee
+		Oliviot
+		Nine
+		Soupie
+		
+	Sentences:
+		//Expressed in JavaScript
+		r = "Ang " + word(insultingAdjectives) + " naman.";
+		r = "These " + s + suffix(word(insultingNouns)) + " yeah?";
+		r = "I know " + random(100) + " forms of martial arts.";
+		r = "Ang " + word(insultingAdjectives) + " naman si " + word(dogNames) + "!";
+		
+	Other Sentences: //Specific sentences that are too complex to be expressed with code. (Well atleast my code)
+		You are all idiots.
