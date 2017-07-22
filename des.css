@@ -1,0 +1,44 @@
+body
+{
+    background-color: #FEFEFE;
+}
+
+p
+{
+    font-family: calibri;
+    text-align: center;
+    font-size: 24px;    
+}
+
+#sentenceHolder
+{
+    font-size: 48px;
+}
+
+.wrapper 
+{
+    text-align: center;
+}
+
+.DefaultButton
+{
+    background-color: #242424;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.DefaultButton:hover
+{
+    background-color: #080808;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
